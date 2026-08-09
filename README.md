@@ -1,2 +1,8 @@
 # doctor-skills
-doctor 项目自定义 WorkBuddy skills：mentor(成长导师)/distill(知识沉淀)
+
+本仓库收录以下 WorkBuddy skill（用户自定义）：
+
+- `mentor/`
+- `distill/`
+
+> 上传前已对服务器 IP、密钥等敏感信息做脱敏处理。
